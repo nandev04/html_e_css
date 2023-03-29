@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
+
+p {
+    text-align: justify;
+}
+
+main{
+    background-color: rgb(146, 77, 13);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px 0px;
+}
+
+.animestemp {
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+}
+
+h1 {
+    font-family:'Sriracha', cursive, sans-serif;
+    background-color: #0c8be0;
+    padding: 4px;
+    box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.37);
+    
+
+}
+
+body {
+    background-color: rgb(185, 150, 114);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+
+#rodape {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 3px;   
+}
+
+
+header {
+    margin: 0px;
+}
+h2 {
+    margin: 10px 0px;
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    background-color: #0c8be0;
+    margin: 10 0px;
+}
+a {
+    text-decoration: none;
+    color: rgb(12, 139, 224);
+    margin: 60px;
+
+}
+a:hover {
+    color: rgb(17, 177, 25);
+    text-decoration: underline;
+    font-style: italic;
+}
